@@ -11,20 +11,33 @@ tour.name = Prefeitura de Ibirité
 
 ### Button
 Button_451F4FFF_7805_F792_41A8_6C2EF4D13928.label = Mirante dos Planetas
+Button_451F4FFF_7805_F792_41A8_6C2EF4D13928_mobile.label = Mirante dos Planetas
 Button_45A70A77_780D_B892_41D0_4B6D71958A88.label = Mirante Morro dos Veados
+Button_45A70A77_780D_B892_41D0_4B6D71958A88_mobile.label = Mirante Morro dos Veados
 Button_4749C8A9_781A_B9BE_41D9_05EFADEA25AC.label = Praça JK
+Button_4749C8A9_781A_B9BE_41D9_05EFADEA25AC_mobile.label = Praça JK
 Button_4801F730_7806_88AE_41BA_2CAFFA756B3F.label = Igreja N. S. das Graças
+Button_4801F730_7806_88AE_41BA_2CAFFA756B3F_mobile.label = Igreja N. S. das Graças
 Button_49B42117_7807_8892_4180_477C454765BC.label = Museu Helena Antipoff
+Button_49B42117_7807_8892_4180_477C454765BC_mobile.label = Museu Helena Antipoff
 Button_78A52EF6_683A_B582_418C_F74A1E597C05.label = Estação Ferroviária
+Button_78A52EF6_683A_B582_418C_F74A1E597C05_mobile.label = Estação Ferroviária
 Button_78A59EF7_683A_B582_41CA_587AFEA255EB.label = Estádio Municipal
+Button_78A59EF7_683A_B582_41CA_587AFEA255EB_mobile.label = Estádio Municipal
 Button_78A5BEF7_683A_B582_41C0_FDA3DD80CEE6.label = Fazenda Mato Grosso
+Button_78A5BEF7_683A_B582_41C0_FDA3DD80CEE6_mobile.label = Fazenda Mato Grosso
 Button_78A5CEF6_683A_B582_41D8_E40D50A2E949.label = Teatro Municipal
 Button_78A5CEF6_683A_B582_41D8_E40D50A2E949.pressedLabel = Inserdt Text
+Button_78A5CEF6_683A_B582_41D8_E40D50A2E949_mobile.label = Teatro Municipal
+Button_78A5CEF6_683A_B582_41D8_E40D50A2E949_mobile.pressedLabel = Inserdt Text
 Button_78A5FEF3_683A_B582_41B7_469E2EB8A6A8.label = Praça Prefeitura
+Button_78A5FEF3_683A_B582_41B7_469E2EB8A6A8_mobile.label = Praça Prefeitura
 Button_78A67EF7_683A_B582_4199_D059E96F9630.label = Cachoeira das Pitangueiras
+Button_78A67EF7_683A_B582_4199_D059E96F9630_mobile.label = Cachoeira das Pitangueiras
 
 ### Label
 Label_313C3DC3_7805_BBF2_41D8_DE9D38EFB94E.text = Localização
+Label_313C3DC3_7805_BBF2_41D8_DE9D38EFB94E_mobile.text = Localização
 
 ## Media
 
